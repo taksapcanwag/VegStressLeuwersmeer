@@ -13,7 +13,7 @@ This is a consultancy project within a course "GIS and remote sensing integratio
 Persa Koutsouradi, Shoyo Nakamura, Davey de Groot, Kristie Swinkels, Marieke Buuts (Wageningen University)
 
 ### Supervisors and collaborators
-Nandika Tsendbasar, Magdalena Smigaj, Andrei Mirt (Wageningen University)
+Nandika Tsendbazar, Magdalena Smigaj, Andrei Mirt (Wageningen University)
 
 ### External resources used 
 Kennedy, R.E., Yang, Z., Gorelick, N., Braaten, J., Cavalcante, L., Cohen, W.B., Healey, S. (2018). Implementation of the LandTrendr Algorithm on Google Earth Engine. Remote Sensing. 10, 691.
